@@ -1,0 +1,4 @@
+(1) Meta data is added in the repository. It helps in keeping track of history!
+(2) Staging area pretty much lets you pick and choose which files you want to commit! The value of this is by segregating the files that make a logical 
+change from the rest of the other changes.
+(3)
