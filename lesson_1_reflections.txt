@@ -1,0 +1,8 @@
+(1)It narrowed down the amount of txt I had to see. Therefore, I was more focused on the few lines that were shown!
+(2)Well, if I ever made a change and my changes make the Software unstable, I can revert it to the last one. Furthermore,
+if there is a bug fix, then I can see the lines that were added/removed pretty quickly.
+(3) Because the user can choose to see which changes are relevant to have a snapshot rather than some machine algorithm.
+(4) Because Git is for projects. And in projects, it is common to change a bunch of related files as opposed to a single file.
+(5) Git Log will help me find a particular commit. Git Diff will help me to determine what changes were made in that commit.
+(6) The short answer is "I can always roll back and everything is OK!"
+(7) I am very interesting in checking out , checking in, creating workspace and etc ...
